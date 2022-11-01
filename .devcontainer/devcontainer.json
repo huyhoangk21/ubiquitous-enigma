@@ -1,0 +1,6 @@
+{
+    "name": "dotnet-webapi",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
